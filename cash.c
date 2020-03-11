@@ -2,13 +2,14 @@
 
 #include <stdio.h>
 #include <cs50.h>
+#include <math.h>
 
 int main(void)
 {
     int change;
     do
     {
-        change = (int)((get_float("Change: "))* 100);
+        change = (int)(round((get_float("Change: "))* 100));
     } 
     while(change < 0);
     
