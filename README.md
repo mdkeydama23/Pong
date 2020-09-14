@@ -13,7 +13,7 @@ I designed and coded a simple pong game. I found this code task to be a meaningf
 
 ## Problem Set 1 - C
 
-> Use the 'printf' method to print the stairs in the Mario game.
+> Use the 'printf' method to print the stairs in Mario on the command line.
 >1. Mario (Less Comfortable)
 >
 >![mario less](https://cs50.harvard.edu/x/2020/psets/1/mario/less/pyramid.png)
