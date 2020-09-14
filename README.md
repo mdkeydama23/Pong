@@ -9,4 +9,10 @@
 >4. Your project must use at least one sound.
 >5. Your project should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than Ivy’s Hardest Game. As such, your project should probably use a few dozen puzzle pieces overall.
 
-I designed and coded a simple pong game. I found this code task to be a meaningful challenge in not only that we got to practice the basics of programming, but also to do it in such a way as to see graphical results instead of dull command line outputs; very heartining to the beginner programmer. To test my game go [here](https://scratch.mit.edu/projects/329801606/)
+I designed and coded a simple pong game. I found this code task to be a meaningful challenge in not only that we got to practice the basics of programming, but also to do it in such a way as to see graphical results instead of dull command line outputs; very heartening to the beginner programmer. To test my game, [click this.](https://scratch.mit.edu/projects/329801606/)
+
+## Problem Set 1 - C
+
+> Use the 'printf' method to print the stairs in the Mario game.
+1. Mario (Less Comfortable)
+2. Mario (More Comfortable)
