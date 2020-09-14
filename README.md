@@ -14,5 +14,14 @@ I designed and coded a simple pong game. I found this code task to be a meaningf
 ## Problem Set 1 - C
 
 > Use the 'printf' method to print the stairs in the Mario game.
-1. Mario (Less Comfortable)
+>1. Mario (Less Comfortable)
+       #
+      ##
+     ###
+    ####
+>  #####
+> ######
+ #######
+########
+
 2. Mario (More Comfortable)
