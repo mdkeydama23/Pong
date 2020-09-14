@@ -15,6 +15,9 @@ I designed and coded a simple pong game. I found this code task to be a meaningf
 
 > Use the 'printf' method to print the stairs in the Mario game.
 >1. Mario (Less Comfortable)
+>
 >![mario less](https://cs50.harvard.edu/x/2020/psets/1/mario/less/pyramid.png)
-
-2. Mario (More Comfortable)
+>
+>2. Mario (More Comfortable)
+>
+>![mario more](https://cs50.harvard.edu/x/2020/psets/1/mario/more/pyramids.png)
